@@ -38,7 +38,7 @@ To run this project locally, ensure you have the following installed:
 ### **Installation Steps:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/data-nav/A_B_testing.git
+   git clone https://github.com/data-nav/ALS_recommendation.git
    cd A_B_testing
    ```
 2. Install the necessary Python packages:
